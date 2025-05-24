@@ -1,3 +1,5 @@
+Kelsie Lloyd
+
 1. I would probably go with 2. Option 1 also sounds legitimate, but I imagine it would be best to test code out for yourself before trying to actually push it. Perhaps even with tests implemented in Github actions, this would prevent additional work if it worked on both your individual tests and the Github tests. Additionally, it might even cover some potential pitfalls that may not be covered by the Github tests.
 
 2. No. Based on my understanding, that's more geared for unit testing. E2E testing involves more so testing from a user's perspective, so I would presume individual functions would be less relevant in this scope.
